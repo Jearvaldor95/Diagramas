@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-11T18:00:39.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="mLs6ctZusLksVoMd85AS" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-11T18:08:08.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="ioz-94sgooiQeMl24OJa" version="24.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2227" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -83,7 +83,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-151" value="precio bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-149">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-151" value="precio decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-149">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -160,7 +160,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-10" value="precio bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-8">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-10" value="precio decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-8">
           <mxGeometry x="30" width="190" height="30" as="geometry">
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -259,7 +259,7 @@
             <mxRectangle width="190" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-59" value="saldo_pendiente bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-59" value="saldo_pendiente decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-530" y="370" width="190" height="20" as="geometry">
             <mxRectangle width="190" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -288,7 +288,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-66" value="monto bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-64">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-66" value="monto decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-64">
           <mxGeometry x="30" width="170" height="20" as="geometry">
             <mxRectangle width="170" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -343,7 +343,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-90" value="monto_objetivo bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-88">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-90" value="monto_objetivo decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-88">
           <mxGeometry x="30" width="190" height="20" as="geometry">
             <mxRectangle width="190" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -356,7 +356,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-93" value="monto_recaudado bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeWidth=2;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-91">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-93" value="monto_recaudado decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeWidth=2;fontSize=13;" vertex="1" parent="-qUbMcdDE11S-rsV2YU5-91">
           <mxGeometry x="30" width="190" height="20" as="geometry">
             <mxRectangle width="190" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -496,7 +496,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qUbMcdDE11S-rsV2YU5-155" value="precio bigdecimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-qUbMcdDE11S-rsV2YU5-155" value="precio decimal" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="190" height="30" as="geometry">
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
